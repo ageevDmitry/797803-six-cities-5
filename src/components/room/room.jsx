@@ -153,7 +153,7 @@ const Room = () => {
                       <span className="reviews__user-name">
                         Max
                       </span>
-                    </div>
+                    </div>`q`
                     <div className="reviews__info">
                       <div className="reviews__rating rating">
                         <div className="reviews__stars rating__stars">
